@@ -57,8 +57,6 @@ def heapsort(arr):
     return arr
 
 # Моделювання
-A = [38, 15, 50, 99, 41, 52, 47, 65, 95]
-sorted_A = heapsort(A)
 print(f"Відсортований масив: {sorted_A}")
 A = [38, 15, 50, 99, 41, 52, 47, 65, 95]
 sorted_A = heapsort(A)
